@@ -275,6 +275,7 @@
 .project-img{
   max-width: 500px;
   border-radius: 8px;
+  width: 100%;
 }
 .project-headers {
   display: -webkit-box;
